@@ -1,110 +1,33 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+# 🤖 IA que Orienta: Meu Roteiro de Carreira (Direito para Tech)
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+Este projeto utiliza **Engenharia de Prompts** para transformar um modelo de linguagem em um Mentor de Carreira especializado. O foco foi conduzir uma entrevista estruturada para identificar o melhor caminho na tecnologia para uma profissional com background jurídico.
 
-</p>
+---
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+## 🛠️ Engenharia do Prompt
+O prompt foi desenhado como um "Agente Entrevistador" com regras de fluxo rigorosas:
+- **Fases:** Dividido em Entrevista (7 perguntas), Análise Interna (Matriz de Decisão) e Sugestão.
+- **Regras Críticas:** Uma pergunta por vez, sem citar salários e foco em ramp-up para júnior.
+- **Contexto:** Transição de carreira partindo do zero, com 18 horas semanais de estudo.
 
-<br/>
-<br/>
+---
 
-## 💻 Sobre o Projeto
+## 📊 Análise de Perfil e Sugestões
+Com base nas interações, a IA analisou minha afinidade com código e resolução de problemas, gerando o seguinte ranking:
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+### 🥇 1º LUGAR: Desenvolvedor Web Full Stack (18/20)
+**Por que combina:** Foco direto em código e resolução de problemas práticos. É o caminho mais rápido para construir portfólio e entrar no mercado partindo do zero.
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+### 🥈 2º LUGAR: Cientista de Dados Júnior (16/20)
+**Por que combina:** Une o interesse em IA com a minha bagagem de **Advogada**. A análise crítica, interpretação de informações e comunicação de resultados são habilidades jurídicas transferíveis para os dados.
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+### 🥉 3º LUGAR: Especialista em IA Aplicada (15/20)
+**Por que combina:** Aproveita a visão interdisciplinar para atuar em áreas como ética em IA, aplicações legais e automação de processos complexos.
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+---
 
-- _Exemplo_:
+## 🧠 Reflexão sobre o Processo
+A Engenharia de Prompts permitiu que eu tivesse uma consultoria de carreira personalizada. Como advogada, percebo que a tecnologia exige a mesma precisão que a escrita de uma petição: se o comando (prompt) não for claro e estruturado, o resultado não atende ao objetivo. Este projeto validou que meu raciocínio lógico é um ativo poderoso para o desenvolvimento de software.
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
-
-- [Outros pré-requisitos, se aplicável]
-
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
-
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
-
-- [Lista das habilidades principais a serem desenvolvidas]
-
-  - [Subhabilidades relacionadas, se aplicável]
-
-- _Exemplo_:
-  - Java
-    - Api Rest
-
-## 🎯 Objetivos e Resultados Esperados
-
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
-
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+---
+Desenvolvido por Mayra Carvalho 🚀
